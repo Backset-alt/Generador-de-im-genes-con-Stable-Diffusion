@@ -3,9 +3,13 @@
 ## Video conceptual de Stable Diffusion
 
 > Relevancia: 5/10
+> 
 > Duración: 8:43
+> 
 > Idioma: Español
+> 
 > Subtítulos: Sí
+> 
 > URL video: [Stable Diffusion Tutorial Inteligencia Artificial ¿Por qué es importante? 🚨 - YouTube](https://www.youtube.com/watch?v=v6h06swKG2o&t=55s&ab_channel=Emiliusvgs)
 
 El vídeo contiene:
