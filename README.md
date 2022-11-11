@@ -24,9 +24,13 @@ El vídeo contiene:
 ## Guía completa de stable diffusion :star:
 
 > Relevancia: 10/10
+> 
 > Duración:  33:36
+> 
 > Idioma: Inglés
+> 
 > Subtítulos: Sí
+> 
 > URL video: [Stable diffusion tutorial. COMPLETE guide - how to install stable diffusion to finished image. - YouTube](https://www.youtube.com/watch?v=DHaL56P6f5M&ab_channel=SebastianKamph)
 
 El vídeo contiene:
@@ -53,9 +57,13 @@ El vídeo contiene:
 ## Guía completa de herramientas Inpainting :star:
 
 > Relevancia: 10/10
+> 
 > Duración:  10:02
+> 
 > Idioma: Español
+> 
 > Subtítulos: Sí
+> 
 > URL video: [REINVENTATE con Stable Diffusion Inpainting 🖌 (Google Colab) 🔥 - YouTube](https://www.youtube.com/watch?v=XTzRnDip6_Q&t=276s&ab_channel=PatricioFernandez)
 
 El vídeo contiene:
@@ -72,9 +80,13 @@ El vídeo contiene:
 ## Tutorial para reentrenar Stable Diffusion y usar herramienta Automatic1111 :thumbsup:
 
 > Relevancia: 7/10
+> 
 > Duración: 20:27
+> 
 > Idioma: Español
+> 
 > Subtítulos: Sí
+> 
 > URL video: [TUTORIAL 👉 ¡Entrena a la IA con tu CARA! - 100% GRATIS Y SIN GPUs (Stable Diffusion y Dreambooth) - YouTube](https://www.youtube.com/watch?v=rgKBjRLvjLs&list=LL&index=22&t=6s&ab_channel=DotCSV)
 > 
 > URL's descripción:
@@ -108,9 +120,13 @@ El vídeo contiene:
 ## Uso de NMKD stable diffusion GUI (versión para escritorio, Windows)
 
 > Relevancia: 7/10
+> 
 > Duración: 7:55
+> 
 > Idioma: Español
+> 
 > Subtítulos: Sí
+> 
 > URL video: [Cómo generar MEJORES IMÁGENES con STABLE DIFFUSION ✅ Tutorial FÁCIL Y RÁPIDO - YouTube](https://www.youtube.com/watch?v=FNBuMil7YRw&list=LL&index=15&t=378s&ab_channel=XavierMitjana)
 
 El vídeo contiene:
@@ -128,14 +144,20 @@ El vídeo contiene:
 
 Lista de canales relevantes:
 
-- > [Patricio Fernandez - YouTube](https://www.youtube.com/channel/UChY8YANMftyY74q1hNMrQ0A)
-  > Español
-  > Tutoriales
+> [Patricio Fernandez - YouTube](https://www.youtube.com/channel/UChY8YANMftyY74q1hNMrQ0A)
+> 
+> Español
+> 
+> Tutoriales
   
-- > [Dot CSV - YouTube](https://www.youtube.com/c/DotCSV)
-  > Español
-  > Tutoriales y noticias
+> [Dot CSV - YouTube](https://www.youtube.com/c/DotCSV)
+> 
+> Español
+> 
+> Tutoriales y noticias
   
-- > [Sebastian Kamph - YouTube](https://www.youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ)
-  > Inglés
-  > Tutoriales
+> [Sebastian Kamph - YouTube](https://www.youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ)
+> 
+> Inglés
+> 
+> Tutoriales
