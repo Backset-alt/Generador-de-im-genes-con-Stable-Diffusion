@@ -19,6 +19,9 @@ El vídeo contiene:
 - Uso de Stable diffusion
   
 
+https://user-images.githubusercontent.com/60983100/201287316-52f93739-3ff7-4af7-983e-791ef84b8c10.mp4
+
+
 ---
 
 ## Guía completa de stable diffusion :star:
@@ -52,6 +55,8 @@ El vídeo contiene:
 - Explicación de herramienta Upscalers
   
 
+https://user-images.githubusercontent.com/60983100/201287460-aba7dcc0-5cdd-4616-9c92-1292c0454b71.mp4
+
 ---
 
 ## Guía completa de herramientas Inpainting :star:
@@ -74,6 +79,10 @@ El vídeo contiene:
   
 - Demostración Stable Diffusion Inpainting con Prompts de ejemplo
   
+  
+
+https://user-images.githubusercontent.com/60983100/201287536-54ddced6-a4a3-49f6-ae9b-ac5df93c2e9f.mp4
+
 
 ---
 
@@ -115,6 +124,10 @@ El vídeo contiene:
 - Uso de Automatc1111 para generar imágenes
   
 
+
+https://user-images.githubusercontent.com/60983100/201287562-2fac3016-1510-4942-873d-c4035c2a5b81.mp4
+
+
 ---
 
 ## Uso de NMKD stable diffusion GUI (versión para escritorio, Windows)
@@ -137,6 +150,10 @@ El vídeo contiene:
   
 - Cómo mejorar la cara en imágenes de personas creadas con IA
   
+
+
+https://user-images.githubusercontent.com/60983100/201287597-f6f9f2d7-9f52-43e4-91be-edf6d4b240db.mp4
+
 
 ---
 
