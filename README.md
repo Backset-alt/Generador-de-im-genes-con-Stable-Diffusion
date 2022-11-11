@@ -17,7 +17,7 @@ El vídeo contiene:
 
 ---
 
-## ## Guía completa de stable diffusion :star:
+## Guía completa de stable diffusion :star:
 
 > Relevancia: 10/10
 > Duración:  33:36
@@ -46,7 +46,7 @@ El vídeo contiene:
 
 ---
 
-## ## Guía completa de herramientas Inpainting :star:
+## Guía completa de herramientas Inpainting :star:
 
 > Relevancia: 10/10
 > Duración:  10:02
